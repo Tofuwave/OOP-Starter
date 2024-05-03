@@ -1,6 +1,6 @@
 # OOP-Starter
 
-Projeto simples da faculdade com Java
+Projeto simples da faculdade com Java e o que eu aprendi
 
 ![Screenshot 2024-05-03 114346](https://github.com/Tofuwave/OOP-Starter/assets/66047380/3e1da40c-8d10-47c3-bdc6-e9d60f485356)
 
